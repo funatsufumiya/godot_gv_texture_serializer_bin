@@ -18,6 +18,6 @@ but I recommend to use `godotenv addons install`. see [GodotEnv's readme](https:
 ```json
     "gv_texture_serializer": {
       "url": "https://github.com/funatsufumiya/godot_gv_texture_serializer_bin",
-      "checkout": "v0.1.0",
+      "checkout": "v0.1.2",
     },
 ```
